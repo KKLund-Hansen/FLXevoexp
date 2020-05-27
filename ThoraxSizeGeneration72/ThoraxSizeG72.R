@@ -2,9 +2,6 @@
 ################################# THORAX LENGTH GENERATION 72 ##################################
 ################################################################################################
 
-#Set working directory
-setwd("~/Google Drev/Work/PhD/Drosophila/FLX/1.FLX/R/ThoraxSize")
-
 #Set up environment
 library(car)
 library(emmeans)

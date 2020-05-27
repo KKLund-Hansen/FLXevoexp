@@ -2,9 +2,6 @@
 ############################## LOCOMOTION ACTIVITY GENERATION 123 ##############################
 ################################################################################################
 
-#Set working directory
-setwd("~/Google Drev/Work/PhD/Drosophila/FLX/1.FLX/R/LocomotionAssay/LAgen123/Fly5")
-
 #Set up environment
 library(blmeco)
 library(car)

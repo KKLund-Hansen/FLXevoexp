@@ -2,9 +2,6 @@
 ########################### STANDARD FITNESS ASSAY GENERATION 15 & 18 ##########################
 ################################################################################################
 
-#Set working directory
-setwd("~/Google Drev/Work/PhD/Drosophila/FLX/1.FLX/R/MidwayAssays/FitnessAssay")
-
 #Set up environment
 library(car)
 library(Hmisc)

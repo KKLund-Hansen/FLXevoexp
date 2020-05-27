@@ -2,9 +2,6 @@
 ################## FM BALANCER MALE REPRODUCTIVE FITNESS ASSAY GENERATION 126 ##################
 ################################################################################################
 
-#Set working directory
-setwd("~/Google Drev/Work/PhD/Drosophila/FLX/1.FLX/R/FMFitnessAssay")
-
 #Set up environment
 library(car)
 library(Hmisc)

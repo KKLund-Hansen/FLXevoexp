@@ -2,9 +2,6 @@
 ################# FM BALANCER FEMALE REPRODUCTIVE FITNESS ASSAY GENERATION 127 #################
 ################################################################################################
 
-#Set working directory
-setwd("~/Google Drev/Work/PhD/Drosophila/FLX/1.FLX/R/FMFitnessAssay")
-
 #Set up environment
 library(car)
 library(Hmisc)
